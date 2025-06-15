@@ -1,7 +1,7 @@
 #Requirements
--Ubuntu OS,tested on Oracle VirtualBox
--gcc compiler
--vi editor
+#Ubuntu OS,tested on Oracle VirtualBox
+#gcc compiler
+#vi editor
 
 #How to Compile and Run
 1.Open Ubuntu VirtualBox
